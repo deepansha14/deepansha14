@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepansha14
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Neural Networks and Time Series Analysis.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 
